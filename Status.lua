@@ -9,4 +9,4 @@ client:on('ready', function()
     }
 end)
 
-client:run("Bot ODE5OTgwNTIzODQwNjAyMTgy.YEugXw.QdqeyQ4H0DhLMCNFwfaBumJaNvw") -- replace BOT_TOKEN with your bot token
+client:run("Bot BOT_TOKEN") -- replace BOT_TOKEN with your bot token
